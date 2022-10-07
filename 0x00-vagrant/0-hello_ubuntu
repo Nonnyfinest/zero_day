@@ -1,1 +1,1 @@
-uname -s
+uname prints the Linux kernel version
